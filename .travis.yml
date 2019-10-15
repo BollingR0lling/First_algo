@@ -2,4 +2,4 @@ language: python
 python:
   - "3.7"
 # command to run tests
-script: Hello_world
+script: Hello_world.py
